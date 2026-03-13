@@ -1,18 +1,20 @@
+# Eclipse / IDE
 .metadata/
-.classpath
-.project
-target/
-*.log
-.metadata/
-target/
-*.log
 .classpath
 .project
 bin/
+
+# Maven build
 target/
-*.class
-.metadata/
+
+# Logs
 *.log
-.classpath
-.project
+
+# Compiled files
+*.class
+
+# Node
 node_modules/
+
+# Screenshots (Important)
+screenshorts/
